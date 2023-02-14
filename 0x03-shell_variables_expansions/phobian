@@ -26,10 +26,10 @@ git add .
 
 
 
-git commit -m 'Alx shell expansions'
+git commit -m 'Alx shel expansions'
 
 
 
 git push
 
-
+"
